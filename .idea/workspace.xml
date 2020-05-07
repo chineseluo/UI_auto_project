@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="352af9f9-483a-47ec-a8ee-fd0cecdd22f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObject/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/login_page_case.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Base/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/config_option.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/config_option.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/excel_option.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/excel_option.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/log_option.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/log_option.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/log_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/log_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/test_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/home_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/test_report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/home_page_case.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/suite.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZIgg9wT3RYuXdIzOC53s3ey1TC" />
@@ -43,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testinterface" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -222,6 +213,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.-363.2048.1112@0.0.1920.1040" timestamp="1584627441397" />
+    <state x="744" y="311" key="git4idea.merge.GitMergeDialog" timestamp="1588862211873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="311" key="git4idea.merge.GitMergeDialog/0.0.1920.1040/1920.-494.2048.1112@0.0.1920.1040" timestamp="1588862211873" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585589763068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
