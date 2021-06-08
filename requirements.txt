@@ -11,7 +11,7 @@ image==1.5.27
 mock==4.0.2
 mysql-connector-python==8.0.19
 numpy==1.18.0
-Pillow==6.2.1
+Pillow==8.2.0
 protobuf==3.6.1
 pypiwin32==223
 pytz==2019.3
